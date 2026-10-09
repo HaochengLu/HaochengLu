@@ -2,6 +2,8 @@
 
 I am a computer science student and systems engineer interested in building reliable AI systems.
 
+Homepage: [haochenglu.github.io](https://haochenglu.github.io)
+
 ## Focus
 
 - **Agent OS** - durable, permission-aware runtimes for long-lived agent workflows.
